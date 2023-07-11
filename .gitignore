@@ -1,0 +1,8 @@
+*.mp4
+*.log
+*.txt
+*.mp4
+*.div
+*.pyc
+media
+__pycache__
